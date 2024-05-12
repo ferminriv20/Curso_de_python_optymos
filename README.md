@@ -1,6 +1,7 @@
 # Curso de Python - Semillero Optymos
 
-![image](https://github.com/ferminriv20/Curso_de_python_optymos/assets/134675488/900230ad-d32c-44af-be83-804f5608cca7)
+![LOGO1](https://github.com/ferminriv20/Curso_de_python_optymos/assets/134675488/c62c810f-66d3-4cd1-81a7-8934ec55bc1e)
+
 
 
 ¡Bienvenido(a) al repositorio del curso de Python para el semillero Optymos! Aquí encontrarás todo el material necesario para aprender los fundamentos del lenguaje de programación Python de manera práctica y divertida.
